@@ -1,21 +1,22 @@
-## Hi there 👋 I'm Luthira Himsara
+## Hey, I'm Luthira 👋
 
-🎓 IT Undergraduate  
-🎬 Video Editor | Motion Graphics Enthusiast  
+🎓 IT Undergraduate  | 🎬 Video Editor
 
-I’m passionate about video editing, motion graphics, and creative storytelling.  
-Currently learning web & software development while blending technology with visuals.
+I love turning ideas into visuals.  
+From clean video edits to motion graphics, I enjoy mixing creativity with technology.
 
-### 🔧 Skills & Tools
-- Video Editing: Premiere Pro, After Effects
-- Motion Graphics & Visual Design
-- Basics of Web & Software Development
-- Creative Storytelling & Content Creation
+💡 Interested in:
+- Video Editing & Motion Graphics
+- Creative Storytelling
+- Web & Software Development
 
-### 🌱 Currently Learning
-- Web Development
-- UI/UX Concepts
-- Creative Technology
+🛠 Tools I Use:
+- Adobe Premiere Pro
+- Adobe After Effects
+- Photoshop
+- Figma (Basics)
 
-### 📫 Connect with Me
-- 🎨 Behance: https://www.behance.net/luthirahimsara1
+🌱 Currently learning how tech + creativity work together.
+
+📌 Portfolio:
+👉 https://www.behance.net/luthirahimsara1
