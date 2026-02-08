@@ -1,15 +1,21 @@
 ## Hi there 👋 I'm Luthira Himsara
-<!--
-**Himsara99/Himsara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 IT Undergraduate  
+🎬 Video Editor | Motion Graphics Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about video editing, motion graphics, and creative storytelling.  
+Currently learning web & software development while blending technology with visuals.
+
+### 🔧 Skills & Tools
+- Video Editing: Premiere Pro, After Effects
+- Motion Graphics & Visual Design
+- Basics of Web & Software Development
+- Creative Storytelling & Content Creation
+
+### 🌱 Currently Learning
+- Web Development
+- UI/UX Concepts
+- Creative Technology
+
+### 📫 Connect with Me
+- 🎨 Behance: https://www.behance.net/luthirahimsara1
